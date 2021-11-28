@@ -2,5 +2,13 @@
     {
         "package": "pmeasyr",
         "url": "https://github.com/GuillaumePressiat/pmeasyr"
+    },
+    {
+        "package": "nomensland",
+        "url": "https://github.com/GuillaumePressiat/nomensland"
+    },
+    {
+        "package": "stringfix",
+        "url": "https://github.com/GuillaumePressiat/stringfix"
     }
 ]
