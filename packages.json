@@ -10,5 +10,9 @@
     {
         "package": "stringfix",
         "url": "https://github.com/GuillaumePressiat/stringfix"
+    },
+    {
+        "package": "logrittr",
+        "url": "https://github.com/GuillaumePressiat/logrittr"
     }
 ]
