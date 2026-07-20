@@ -14,5 +14,9 @@
     {
         "package": "logrittr",
         "url": "https://github.com/GuillaumePressiat/logrittr"
+    },
+    {
+        "package": "chubrestdown",
+        "url": " https://github.com/GuillaumePressiat/chubrestdown"
     }
 ]
